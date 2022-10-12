@@ -1,5 +1,5 @@
 {
-    "name": "laraish/pagination",
+    "name": "wllionel/pagination",
     "description": "A simple library for generating pagination.",
     "keywords": [
         "framework",
@@ -7,21 +7,21 @@
         "wordpress"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/laraish/pagination",
+    "homepage": "https://github.com/wllionel/pagination",
     "support": {
-        "issues": "https://github.com/laraish/pagination/issues",
-        "source": "https://github.com/laraish/pagination"
+        "issues": "https://github.com/wllionel/pagination/issues",
+        "source": "https://github.com/wllionel/pagination"
     },
     "authors": [
         {
-            "name": "yaquawa",
-            "email": "yaquawa@gmail.com"
+            "name": "Lionel Pham",
+            "email": "phamngoctuong1805@gmail.com"
         }
     ],
     "require": {
         "php": "^7.3",
-        "laraish/contracts": "^2.0",
-        "laraish/support": "^2.0",
+        "wllionel/contracts": "^2.0",
+        "wllionel/support": "^2.0",
         "illuminate/contracts": "^8.0"
     },
     "autoload": {
