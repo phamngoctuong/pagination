@@ -20,8 +20,8 @@
     ],
     "require": {
         "php": "^7.3",
-        "wllionel/contracts": "1.0.1",
-        "wllionel/support": "1.0.1",
+        "wllionel/contracts": "1.0.3",
+        "wllionel/support": "^1.0.3",
         "illuminate/contracts": "^8.0"
     },
     "autoload": {
